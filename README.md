@@ -1,2 +1,4 @@
-# iv-skew-trading-strategy
-Research project analyzing the predictive power of implied volatility skew on stock returns. Developed and backtested a trading strategy based on IV skew signals, including data analysis, feature engineering, backtesting, and performance evaluation.
+# IV Skew Trading Strategy
+
+This project investigates whether implied volatility skew can predict future stock returns. It includes data preprocessing, feature engineering, portfolio construction, backtesting, and performance evaluation.
+
